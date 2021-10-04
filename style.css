@@ -9,7 +9,7 @@ body{
   .bg-img {
     /* The image used */
     background-image: url("images/bg1.png");
-    min-height:px;
+    min-height:960px;
     height: 600px;
 
   
