@@ -9,7 +9,9 @@ body{
   .bg-img {
     /* The image used */
     background-image: url("images/bg1.png");
-    min-height:960px;
+    min-height:px;
+    height: 600px;
+
   
     /* Center and scale the image nicely */
     background-position: center;
@@ -17,8 +19,9 @@ body{
     background-size: cover;
   
     /* Needed to position the navbar */
-    position: relative;
-    width:100%
+  
+   
+
   }
   
   /* Position the navbar container inside the image */
@@ -296,8 +299,8 @@ h1 {
 .blink{
   top:1%;
   text-align:center;
-  position: absolute;
-  margin-left:42%;
+  position: relative;
+  margin-top: 4%;
   font-size: 32px;;
 }
 .container9{
