@@ -407,14 +407,15 @@ width: 100%;
   top: 50%;
   margin-left:41%;
 }
-.container6{
+.container6
+{
   position: absolute;
   top:210%;
   width: 100%;
   background-color:white;
 } 
-
 .container7{
+  
   position: absolute;
   top:150%;
   width: 100%;
