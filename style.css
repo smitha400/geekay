@@ -383,7 +383,7 @@ width: 100%;
 }
 .container5{
   position: absolute;
-  top:158%;
+  top:170%;
   width: 100%;
   background-color:white;
 }
@@ -409,7 +409,7 @@ width: 100%;
 }
 .container6{
   position: absolute;
-  top:200%;
+  top:210%;
   width: 100%;
   background-color:white;
 } 
@@ -477,7 +477,7 @@ width: 100%;
   font-size:1.5em;
 }
 .Range{
-  top:10%;
+  top:20%;
   margin-left:6%;
   color:black;
   font-size: 1.5em;
